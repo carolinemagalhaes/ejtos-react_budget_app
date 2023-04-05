@@ -36,6 +36,7 @@ const App = () => {
                         <AllocationForm/>
                     </div>
                 </div>
+
             </div>
         </AppProvider>
     );
